@@ -1,6 +1,0 @@
-Hello Bro!!!!
-<<<<<<< HEAD
-Hello new branch -- "new_f"
-=======
-It is Branch "master"
->>>>>>> master
